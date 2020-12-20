@@ -1,7 +1,4 @@
-# IASA_LS_LABS
-Codebase for High Scalable System labs
-
-## Lab 2 (Jmeter)
+# Lab 2 (Jmeter)
 
 - task1.jmx -> summary1.csv
 - task2.jmx -> summary2.csv
